@@ -16,7 +16,8 @@ The decrypted image can be found in the same folder as the encrypted image.
 
 ## Example
 
-1. Run the program to encrypt the image ```naruto.png```
+1. Run the encryption program to encrypt the image ```naruto.png```
+      Use ```python encrypt.py```
 
 ![](https://github.com/uD1Y/Image-Processing-Project/blob/main/Rubix's%20Cube/naruto.png)
 
@@ -25,7 +26,8 @@ The encrypted Picture can be found in the same folder
 
 The keys are stored in ```keys.txt ```
 
-2. To decrypt the image, run and enter the key values (Kr, Kc and ITER_MAX)  
+2. Run the decrpytion program to decrypt the image, run and enter the key values (Kr, Kc and ITER_MAX)
+      Use ```python decrypt.py```
 
 The decrypted Picture can be found in the same folder
 ![](https://github.com/uD1Y/Image-Processing-Project/blob/main/Rubix's%20Cube/decrypted_naruto.png)
