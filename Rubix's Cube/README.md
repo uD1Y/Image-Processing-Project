@@ -1,9 +1,5 @@
 # Image Cryptography Based on Rubix's Cube Principle
 
-Implementation of image encryption and decryption using Rubix's Cube Principle. This algorithm is based on 
-the paper which can be found at https://www.hindawi.com/journals/jece/2012/173931/
-
-
 ## Running 
 
 1. To encrypt an image, give the name of the image in the file and then run it.
