@@ -26,7 +26,7 @@
 - The map depends on two parameters, a and b, which for the classical Hénon map have values of a = 1.4 and b = 0.3. For the classical values the Hénon map is chaotic. For other values of a and b the map may be chaotic, intermittent, or converge to a periodic orbit.
 
 
-#### Base Reference Paper
+### Base Reference Paper
  - A Survey on Image Encryption using Chaos-based Techniques |(IJACSA) International Journal of Advanced Computer Science and Applications 
                                           
        https://www.proquest.com/openview/9152c699e21701ef526aafa2470a9431/1?pq-origsite=gscholar&cbl=5444811
