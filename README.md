@@ -1,4 +1,5 @@
-# ImageProcessing
+# ImageProcessing Project
+## Title - Image Cryptography
 ---
 ### Simple Cryptograpghy
 #### Encryption
