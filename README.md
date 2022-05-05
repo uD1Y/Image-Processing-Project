@@ -7,6 +7,7 @@
 #### Decryption 
  - It is nothing but a process of converting our encrypted image or information into a viewable form.
 
+### Chaos Maps
 #### Arnold Cat Map
  - Arnold's Cat Map is a chaotic map often used for pixel manipulation. It randomizes the pixel positions in an image by stretching and folding the image. When an optimal number of iterations of the transformation is applied on the image, the resulting image becomes incomprehensible and hence encrypted.
 
@@ -19,16 +20,4 @@
 ```(Xn+1) = (Yn) + 1 − a.(Xn)```
 ```(Yn+1) = b * (Xn)``` 
 - The map depends on two parameters, a and b, which for the classical Hénon map have values of a = 1.4 and b = 0.3. For the classical values the Hénon map is chaotic. For other values of a and b the map may be chaotic, intermittent, or converge to a periodic orbit.
-
-#### Rubix's Cube
-- Rubik's cube principle is used to scramble the original image pixels. This method changes the position of the pixels. Here two random keys are used. Using these two secret keys, the circular shift is applied to all the rows and columns. To improve the security the steps can be repeated as many times required.
-  - Rubik’s cube encryption
-  - Rubik’s cube decryption 
-- Regarding the algorithm
-  1. Permute your pixels by first rotating each row and column by some steps
-  2. Encrypt each pixel using XOR (probably this step is meant to obfuscate the permutation from step 1)
-  3. Repeat a couple of times
-  - The algorithm uses a "seed" of (number of columns + number of rows + 1) numbers to define individual rotations for each row and column, and individual XOR values for each pixel.
-  - The "Rubiks Cube" helps by providing a non-trivial scheme that can be defined with a relatively low number of key values.
-
 
