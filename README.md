@@ -1,6 +1,6 @@
 # ImageProcessing Project
 ## Title - Image Cryptography
----
+
 ### Simple Cryptograpghy
 #### Encryption
  - It is nothing but a simple process in which we convert our image or information into an encrypted or unreadable mode to prevent it from unauthorized access and keep it private and secure.
@@ -25,7 +25,7 @@
       (Yn+1) = b * (Xn)
 - The map depends on two parameters, a and b, which for the classical Hénon map have values of a = 1.4 and b = 0.3. For the classical values the Hénon map is chaotic. For other values of a and b the map may be chaotic, intermittent, or converge to a periodic orbit.
 
----
+
 #### Base Reference Paper
  - A Survey on Image Encryption using Chaos-based Techniques |(IJACSA) International Journal of Advanced Computer Science and Applications 
                                           
