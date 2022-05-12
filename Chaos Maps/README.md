@@ -23,3 +23,4 @@ Chaotic systems are a simple sub-type of nonlinear dynamical systems. They may c
 ### Note: 
 - You can copy either the code and run separately or use the github link to be open the same in google colab.
 - You can either download the .ipynb extension file and open in any software such as google colab, jupyter notebook, etc.
+- You can download the images given here or use your own images to try the algorithm. Personally I recommened small sized images or square sized images like: 250 x 250.
