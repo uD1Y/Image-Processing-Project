@@ -20,7 +20,7 @@ Chaotic systems are a simple sub-type of nonlinear dynamical systems. They may c
       (Yn+1) = b * (Xn)
 - The map depends on two parameters, a and b, which for the classical Hénon map have values of a = 1.4 and b = 0.3. For the classical values the Hénon map is chaotic. For other values of a and b the map may be chaotic, intermittent, or converge to a periodic orbit.
 
-### Note: 
+# Running 
 - You can copy either the code and run separately or use the github link to be open the same in google colab.
 - You can either download the .ipynb extension file and open in any software such as google colab, jupyter notebook, etc.
 - You can download the images given here or use your own images to try the algorithm. Personally I recommened small sized images or square sized images like: 250 x 250.
