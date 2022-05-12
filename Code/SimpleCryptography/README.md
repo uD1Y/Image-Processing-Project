@@ -15,17 +15,17 @@ The image can be found decrypted.
       
       Use ```python Encryption.py```
 
-![](https://github.com/uD1Y/Image-Processing-Project/blob/main/Simple%20Cryptography/naruto.png)
+![](https://github.com/uD1Y/Image-Processing-Project/blob/main/Code/SimpleCryptography/naruto.png)
 
 The original image will be encrypted and will not be visible.
-![](https://github.com/uD1Y/Image-Processing-Project/blob/main/Simple%20Cryptography/EncryptionOutput.png)
+![](https://github.com/uD1Y/Image-Processing-Project/blob/main/Code/SimpleCryptography/EncryptionOutput.png)
 
 2. Run the decrpytion program to decrypt the image, run and enter the key value
       
       Use ```python Decryption.py```
 
 The encrpyted image will be decrypted and we can see the original image.
-![](https://github.com/uD1Y/Image-Processing-Project/blob/main/Simple%20Cryptography/DecryptionOutput.png)
+![](https://github.com/uD1Y/Image-Processing-Project/blob/main/Code/SimpleCryptography/DecryptionOutput.png)
 
 ## Note:
 - Download this folder and give the image file location as input
